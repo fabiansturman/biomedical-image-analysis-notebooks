@@ -6,3 +6,4 @@ dependencies:
   - matplotlib
   - pydicom
   - scikit-image
+  - ipykernel
